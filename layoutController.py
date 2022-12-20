@@ -7,7 +7,7 @@ import Queue     as queue
 import threading as threading
 
 import traceback
-    
+
 import layoutConfig
 import layoutReload
 import layoutListeners
